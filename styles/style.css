@@ -61,7 +61,6 @@ body {
     flex-direction: column;
 }
 
-
 #list-todo {
     list-style-type: none;
     display: flex;
@@ -120,3 +119,4 @@ body {
 .finished p {
     text-decoration: line-through;
 }
+
